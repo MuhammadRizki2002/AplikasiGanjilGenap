@@ -1,4 +1,4 @@
-#Aplikasi Konversi Suhu
+#Aplikasi Ganjil Genap
 
 Aplikasi Cek Genap, Ganjil, dan Bilangan Prima adalah sebuah program berbasis Java yang dirancang untuk membantu pengguna dalam menentukan apakah sebuah angka termasuk bilangan Genap atau Ganjil, dan apakah angka tersebut merupakan Bilangan Prima. Aplikasi ini dikembangkan menggunakan JFrame di NetBeans dengan antarmuka pengguna berbasis Swing yang sederhana dan intuitif.
 
